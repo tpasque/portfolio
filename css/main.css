@@ -64,12 +64,12 @@ section{
 }
 
 .imageHolder{
-  position: relative;
+  display: inline-block;
 }
 
 .imageHolder,img{
   width:320px;
   height:200px;
   border-radius: 5px 5px 5px 5px;
-  position: relative;
+
 }
