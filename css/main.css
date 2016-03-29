@@ -63,13 +63,28 @@ section{
   color: #3D8C95;
 }
 
-.imageHolder{
+.imageHolderO4l{
 position: relative;
 }
 
-.imageHolder img{
+.imageHolderO4l img{
   width:19vw;
   height:23vh;
+  margin: 1vw;
+  border-radius: 5px 5px 5px 5px;
+  float:left;
+  position: relative;
+  left: 1vw;
+
+}
+
+.imageHolderCF{
+position: relative;
+}
+
+.imageHolderCF img{
+  width:19vw;
+  height:22vh;
   margin: 1vw;
   border-radius: 5px 5px 5px 5px;
   float:left;
