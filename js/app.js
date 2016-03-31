@@ -9,6 +9,7 @@ var app = angular.module('myApp', ['ngRoute', 'ngAnimate'])
 				.otherwise('/')
 		})
 
+
 var $header = $('.header');
 var $artInner = $('.header-inner');
 var $body = $('body');
