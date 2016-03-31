@@ -1,3 +1,14 @@
+var app = angular.module('myApp', ['ngRoute', 'ngAnimate'])
+
+		app.config(function($routeProvider) {
+			$routeProvider
+				.when('/', {
+					templateUrl: 'partials/home.html',
+					controller: 'MainController'
+				})
+				.otherwise('/')
+		})
+
 var $header = $('.header');
 var $artInner = $('.header-inner');
 var $body = $('body');

@@ -99,3 +99,12 @@ position: relative;
   left: 1vw;
 
 }
+
+.contactIcons{
+  position: relative;
+  left: 12vw;
+}
+
+.contactIcons img{
+  margin-left: 4vw;
+}
