@@ -136,14 +136,14 @@ section{
   width:100%;
   height: 8vh;
   position: relative;
-  left: 5vw;
+  left: 7vw;
 }
 
 .contactIcons img{
   margin-left: 4vw;
 }
 
-.contactIcons img:hover{
+/*.contactIcons img:hover{
   border: 3px solid #FAD1A2;
   border-radius: 50%;
-}
+}*/
