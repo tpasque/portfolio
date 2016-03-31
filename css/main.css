@@ -11,6 +11,13 @@ body{
   overflow-x: hidden;
   background: rgba(0,0,0,.1);
 }
+a {
+  color: inherit;
+}
+
+a:hover{
+  color: #FAD1A2;
+}
 
 .wrap{
 	max-width: 1100px;
