@@ -19,6 +19,17 @@ a:hover{
   color: #FAD1A2;
 }
 
+/*.headerContactIcons{
+  width:100%;
+  height: 8vh;
+  position: relative;
+  left: 37vw;
+}
+
+.headerContactIcons img{
+  margin-left: 1vw;
+}*/
+
 .wrap{
 	max-width: 1100px;
 	margin: 0 auto;
@@ -70,7 +81,7 @@ header{
 }
 
 #tpasque-title{
-	font-size: 3em;
+	font-size: 2.8em;
   margin-top: -6vh;
   margin-left: 1vw;
   color: #3D8C95;
