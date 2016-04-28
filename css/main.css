@@ -6,7 +6,7 @@
 }
 
 /*styling for browswer width between 0 and 700px*/
-@media (max-width: 700px) {
+@media (max-width: 640px) {
   body{
   	font-size: 100%;
   	line-height: 1.7;
@@ -184,7 +184,7 @@
 }
 
 /*styling for browswer width greater than 700px*/
-@media (min-width: 700px) {
+@media (min-width: 640px) {
   body{
   	font-size: 100%;
   	line-height: 1.7;
